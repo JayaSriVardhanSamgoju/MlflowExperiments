@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Vardhan/Documents/ML%20Bootcamp/mlflow/mlruns/0/ada9e9e9547247c3979aaf73bf325b12/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ada9e9e9547247c3979aaf73bf325b12
+run_name: nebulous-elk-253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750483126049
+status: 1
+tags: []
+user_id: Vardhan
